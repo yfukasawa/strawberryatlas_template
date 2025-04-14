@@ -1,0 +1,125 @@
+{
+  "Fragaria vesca TPM expression all.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "description":"fvesca_tpm.php",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression all no run name.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression all with name.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression axillary-bud stem-apices crown stem.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression receptacle-meristem flower-meristem staged flower.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression root with age.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression staged fruit.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression staged leaf.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca TPM expression staged seed.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    },
+  "Fragaria vesca log2FC leaf H4 vs YW.txt":
+    {
+      "link":"",
+      "annotation_file":"Fvesca/gene_annotations.txt",
+      "cartoons":"",
+      "description":"fvesca_fc.php",
+      "expression_colors":
+      {
+       "colors":["#c8c8c8","#f0c320","#ff8800","#ff7469","#de2515","#b71005","#0bb4ff","#4c2882"],
+       "ranges_txt":["<1",">=1",">=2",">=5",">=10",">=50",">=100",">=200"],
+       "ranges":[[0,0.99],[1,1.99],[2,4.99],[5,9.99],[10,49.99],[50,99.99],[100,199.99],[200,49999.99]]
+      }
+    }
+
+}

@@ -59,7 +59,7 @@ $tb_blast      = 0;
 $tb_jbrowse    = 1;
 $tb_seq_ext    = 0;
 $tb_annot_ext  = 1;
-$tb_lookup     = 0;
+$tb_lookup     = 1;
 $tb_enrichment = 0;
 
 //Gene expression atlas
@@ -113,7 +113,7 @@ $show_qr     = 0;
 
 //Gene examples
 $gene_sample = "";
-$input_gene_list="FvesChr1G00279070.1";
+$input_gene_list="FvesChr1G00279070";
 
 // Tools
 $max_lookup_input = 10000;
